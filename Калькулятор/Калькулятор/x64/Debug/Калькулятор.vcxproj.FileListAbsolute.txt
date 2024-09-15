@@ -1,0 +1,3 @@
+C:\Users\Konstantin\source\repos\Калькулятор\Калькулятор\x64\Debug\Калькулятор.vcxproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\Калькулятор\Калькулятор\x64\Debug\Калькулятор.MyForm.resources
+C:\Users\Konstantin\source\repos\Калькулятор\Калькулятор\x64\Debug\Калькулятор.vcxproj.GenerateResource.cache
